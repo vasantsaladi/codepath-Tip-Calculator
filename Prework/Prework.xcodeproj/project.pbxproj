@@ -16,6 +16,7 @@
 		2C8D217328B1218400070D6D /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8D217228B1218400070D6D /* PreworkTests.swift */; };
 		2C8D217D28B1218400070D6D /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8D217C28B1218400070D6D /* PreworkUITests.swift */; };
 		2C8D217F28B1218400070D6D /* PreworkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8D217E28B1218400070D6D /* PreworkUITestsLaunchTests.swift */; };
+		2C8D218C28B2525600070D6D /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8D218B28B2525600070D6D /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2C8D217828B1218400070D6D /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C8D217C28B1218400070D6D /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		2C8D217E28B1218400070D6D /* PreworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C8D218B28B2525600070D6D /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2C8D215D28B1218300070D6D /* SceneDelegate.swift */,
 				2C8D215F28B1218300070D6D /* ViewController.swift */,
 				2C8D216128B1218300070D6D /* Main.storyboard */,
+				2C8D218B28B2525600070D6D /* SettingsViewController.swift */,
 				2C8D216428B1218300070D6D /* Assets.xcassets */,
 				2C8D216628B1218300070D6D /* LaunchScreen.storyboard */,
 				2C8D216928B1218300070D6D /* Info.plist */,
@@ -261,6 +264,7 @@
 				2C8D216028B1218300070D6D /* ViewController.swift in Sources */,
 				2C8D215C28B1218300070D6D /* AppDelegate.swift in Sources */,
 				2C8D215E28B1218300070D6D /* SceneDelegate.swift in Sources */,
+				2C8D218C28B2525600070D6D /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
